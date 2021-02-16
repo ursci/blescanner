@@ -9,7 +9,7 @@ _BLE Scanner_ is an experimental project to estimated the number of persons with
 
 ### Download the app
 
-[TBD]
+Android builds can be downloaded from the [release page](https://github.com/ursci/blescanner-app/releases).
 
 ### Publication
 
